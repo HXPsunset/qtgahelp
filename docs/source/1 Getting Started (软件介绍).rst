@@ -22,9 +22,8 @@
 
 1.2 Download (软件下载)
 ------------------------------------------------------------------------
-:download:`TGA下载 <https://github.com/wanghai1988/TGA_Publish/releases/download/TGA4/QTGA.zip>`
-
-:download:`测试数据下载 <https://github.com/wanghai1988/TGA_Data/archive/refs/tags/v1.zip>`
+:download:`TGA下载 <https://github.com/wanghai1988/TGA_Publish/releases/download/TGA4/QTGA.zip>`_
+:download:`测试数据下载 <https://github.com/wanghai1988/TGA_Data/archive/refs/tags/v1.zip>`_
 
 1.3 Runtime Environment (运行环境)
 ------------------------------------------------------------------------
